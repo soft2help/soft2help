@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soft2help
 - 👀 I’m interested in improve my self as a developer
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on projects where i can learn 
 - 📫 How to reach me ...
 
